@@ -1,0 +1,16 @@
+[
+    {
+        "name": "coco",
+        "description": "coquito rico para la salud",
+        "price": 10,
+        "category": "Grosery",
+        "quantity": 2
+    },
+    {
+        "name": "manzana",
+        "description": "manzana fresca y crujiente",
+        "price": 5,
+        "category": "Grosery",
+        "quantity": 10
+    }
+]
